@@ -1,4 +1,4 @@
-#Problem Statement
+#Problem Statement#
 This project aims to address the lack of understanding of consumer purchasing behavior within the e-commerce domain. Specifically, it seeks to identify and analyze key trends and patterns in customer shopping habits. 
 Understanding customer behavior is crucial for the success of any e-commerce business. By analyzing shopping trends, businesses can gain valuable insights into: 
 Customer Preferences: Identify the most popular product categories, preferred brands, and desired product attributes (e.g., color, size, shipping options). 
